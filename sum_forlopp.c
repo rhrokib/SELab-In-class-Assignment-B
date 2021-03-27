@@ -16,9 +16,6 @@ int sum(int arr[], int n) {
     return s;
 }
 
-int ret_z(){
-    return 0;
-}
 
 void hello(){
     printf("hello");
