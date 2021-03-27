@@ -25,4 +25,3 @@ int main() {
     printf("sum of the elements of this array is %d", sum(arr, n));
     return 0;
 }
-
